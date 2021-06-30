@@ -2,11 +2,12 @@
 I am a front-end engineer, from the UK, looking for my first role.
 
 - 🌱 I am currently extending my knowledge of React
-- 🔭 I’m currently working on my project [WoSo Fixtures](https://www.wosofixtures.com/)
+- 🔭 I’m currently working on my project <a href="https://www.wosofixtures.com" target="_blank" rel="noopener">WoSo Fixtures</a>
+
 
 ## Connect with me
 <!-- [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />](https://twitter.com/saromsaweb) -->
-<a href="https://twitter.com/saromsaweb" target="_blank"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a>
+<a href="https://twitter.com/saromsaweb" target="_blank" rel="noopener"><img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 <br>
 <br>
