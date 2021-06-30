@@ -8,6 +8,7 @@ I am a front-end engineer, from the UK, looking for my first role.
 
 <br>
 <br>
+
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
