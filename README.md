@@ -4,6 +4,7 @@ I am a Junior Frontend Engineer, from the UK.
 
 - 🌱 I am currently extending my knowledge of React
 - 🔭 I’m currently working on my project <a href="https://www.wosofixtures.com" target="_blank" rel="noopener">WoSo Fixtures</a>
+- 👀 I’m looking for new opportunities
 
 ---
 
@@ -12,7 +13,7 @@ I am a Junior Frontend Engineer, from the UK.
 <!-- [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />](https://twitter.com/saromsaweb) -->
 <!-- <a href="https://twitter.com/saromsaweb" target="_blank" rel="noopener"><img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
 
-![Twitter Follow](https://img.shields.io/twitter/follow/saromsaweb?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/saromsaweb?style=social)](https://twitter.com/saromsaweb)
 <br>
 <br>
 
