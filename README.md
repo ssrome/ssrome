@@ -1,6 +1,6 @@
 # Hello World 👋, I am Sabrina
 
-I am a front-end engineer, from the UK.
+I am a Junior Frontend Engineer, from the UK.
 
 - 🌱 I am currently extending my knowledge of React
 - 🔭 I’m currently working on my project <a href="https://www.wosofixtures.com" target="_blank" rel="noopener">WoSo Fixtures</a>
