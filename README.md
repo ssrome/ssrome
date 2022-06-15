@@ -32,7 +32,7 @@ I am a Software Engineer, from the UK.
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssrome&&langs_count=8&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssrome&&langs_count=8&hide=java&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssrome&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
