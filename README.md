@@ -1,9 +1,9 @@
 # Hello World 👋, I am Sabrina
 
-I am a Software Engineer, from the UK.
+I am a Software Engineer, based in the UK.
 
-- 🌱 I am currently extending my knowledge of React
-- 🔭 I’m currently working on my project <a href="https://www.wosofixtures.com" target="_blank" rel="noopener">WoSo Fixtures</a>
+- 🌱 I am currently learning Ruby
+- 🔭 I am working on extending my knowledge of React with Next.JS
 
 ---
 
@@ -24,17 +24,19 @@ I am a Software Engineer, from the UK.
 <img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="left" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 
 <br>
 <br>
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+<!-- Uncomment after Deploying own version of GH Stats, as it keeps failing -->
+<!-- ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssrome&&langs_count=8&hide=java&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssrome&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssrome&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **ssrome/ssrome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
