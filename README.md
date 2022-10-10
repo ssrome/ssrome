@@ -31,12 +31,11 @@ I am a Software Engineer, based in the UK.
 
 ---
 
-<!-- Uncomment after Deploying own version of GH Stats, as it keeps failing -->
-<!-- ## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssrome&&langs_count=8&hide=java&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ssrome.vercel.app/api/top-langs/?username=ssrome&&langs_count=8&hide=java&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssrome&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Catalin's GitHub stats](https://github-readme-stats-ssrome.vercel.app/api?username=ssrome&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ssrome/ssrome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
