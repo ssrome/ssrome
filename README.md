@@ -2,8 +2,8 @@
 
 I am a Software Engineer, based in the UK.
 
-- 🌱 I am currently learning Ruby
-- 🔭 I am working on extending my knowledge of React with Next.JS
+- 🌱 I am currently learning Python and Ruby
+- 🔭 I am currently working on my CS50 final project
 
 ---
 
@@ -33,11 +33,9 @@ I am a Software Engineer, based in the UK.
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats-ssrome.vercel.app/api/top-langs/?username=ssrome&&langs_count=8&hide=java&theme=radical&layout=compact)](https://github.com/ssrome/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssrome&&langs_count=8&hide=java&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssrome&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Sabrina's GitHub stats](https://github-readme-stats-ssrome.vercel.app/api?username=ssrome&count_private=true&theme=radical)](https://github.com/ssrome/github-readme-stats)
+[![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssrome&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ssrome/ssrome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
